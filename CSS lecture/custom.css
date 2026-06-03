@@ -2,4 +2,5 @@ small {
   color: green;
   word-spacing: 10px;
   text-transform: uppercase;
+  line-height: 30px;
 }
