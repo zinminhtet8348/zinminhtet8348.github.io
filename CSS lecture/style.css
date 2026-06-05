@@ -25,7 +25,7 @@ a[title="google"] {
 }
 /* Descendent Selector */
 .desc a {
-  color: rgba(18, 151, 71, 0.344);
+  color: rgba(97, 207, 141, 0.344);
 }
 /* Child Selector */
 .child > a {
