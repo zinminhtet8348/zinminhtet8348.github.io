@@ -165,8 +165,8 @@ a:visited {
 }
 /* Offline Font */
 @font-face {
-  font-family: "abc";
-  src: url("Black_Ops_One,Lato,Ole,Open_Sans,Roboto_Condensed/Lato-Black.ttf");
+  font-family: "Roboto";
+  src: url("Roboto/Lato/Lato-Black.ttf");
 }
 .offline_font {
   font-family: "abc";
